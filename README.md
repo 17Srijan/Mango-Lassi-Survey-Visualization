@@ -26,3 +26,5 @@ The initial dataset had some issues, so Data Cleaning involved:
 Overall, the survey underscores the strong appeal of Mango Lassi across different demographics and nationalities. The insights gained from this project can inform marketing strategies, pricing decisions, and product development to better cater to consumer preferences and expand the market for Mango Lassi.
 
 By leveraging data visualization techniques, we were able to uncover these insights effectively and provide a clear picture of the current landscape for Mango Lassi in Vienna. This project not only enhanced our understanding of consumer preferences but also showcased the power of data-driven decision-making in the food and beverage industry.
+
+<iframe src="https://gamma.app/embed/bu6fyoy76o71jvi" style="width: 700px; max-width: 100%; height: 450px" allow="fullscreen" title="Exploring the Mango Lassi Mystery"></iframe>
